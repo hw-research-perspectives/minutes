@@ -1,11 +1,13 @@
-# Janurary 21st Meeting 
+# January 21st Meeting 
 
 ## Attendees:
 Mike, Stefano and Craig
+
 Kit, John, Lewis, Laura and Tom
 
 ## Minutes
 Define tasks with the minimum of people assigned
+
 Record minutes of the meetings for usage in marking and refering back to what hass been said.
 
 Tasks as Mike sees it:
@@ -23,7 +25,7 @@ Possible risks as identified in the meeting are :
 * getting summaries as thte access database provided by Paul Thompson doesn't have the summaries
 * trends for dates, investigators, money, summary, grants, title
 
-It is required that we document weekly what everyone has done for the week and thiss should be donw in meetings before the main meeting with Mike.
+It is required that we document weekly what everyone has done for the week and thiss should be done in meetings before the main meeting with Mike.
 
 Website should be self explanatory with no need for user instruction (using a short screencast might be useful) No longer than 2 minutes.
 
