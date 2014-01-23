@@ -8,11 +8,11 @@ Kit, John, Lewis, Laura and Tom
 ## Minutes
 Define tasks with the minimum of people assigned
 
-Record minutes of the meetings for usage in marking and refering back to what hass been said.
+Record minutes of the meetings for usage in marking and referring back to what has been said.
 
 Tasks as Mike sees it:
 
-* GUI - D3.js etc
+* GUI - D3.js etc - Stefano mentioned not to have too many levels - this will be based on potential user feedback.
 * Basic Requirements including sketches of user diagrams
 * Backend - topic modelling
 
@@ -22,10 +22,10 @@ Mike reckons that the number of documents might be too small so we might have to
 Possible risks as identified in the meeting are :
 
 * topic modelling changing
-* getting summaries as thte access database provided by Paul Thompson doesn't have the summaries
+* getting summaries as the access database provided by Paul Thompson doesn't have the summaries
 * trends for dates, investigators, money, summary, grants, title
 
-It is required that we document weekly what everyone has done for the week and thiss should be done in meetings before the main meeting with Mike.
+It is required that we document weekly what everyone has done for the week and this should be done in meetings before the main meeting with Mike.
 
 Website should be self explanatory with no need for user instruction (using a short screencast might be useful) No longer than 2 minutes.
 
@@ -52,5 +52,11 @@ To-Do before then :
 
 * Set up and have meeting with Paul Thompson to define some user requirements and also touch on the data
 * Split work into a set of tasks and provisionally assign so we have some idea who is responsible for what
+
+### Additional Notes
+* Group project will be peer reviewed.
+* He would like to see physical evidence of work that has been done that week.
+* Stefano is setting up a directory and providing headers and footers to keep the design of the web pages the same.
+* Perhaps we should research alternatives to the Hexagonal GRID.
 
 
