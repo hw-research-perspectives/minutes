@@ -1,0 +1,37 @@
+# February 20th Group Meeting
+
+## Attendees
+Laura, Tom
+Late : John, Kit
+Apologies : Simon via Email
+Absent : Lewis
+
+## Minutes
+Discussed what still needs to be done - not much done since Tuesday
+
+MySQL work to be done : 
+* get monthly spend data
+* get proportions from existing proportion data
+* generate data to be used in Geo location 
+  * topics - collaborators/grants
+  * Simon has an existing database with location data in it - see if this could be used?
+  * Use coordinates of each university
+
+D3 work to be done :
+* map views/graphs - Tom
+* hexgrid using SOM data - Lewis/Kit 
+  * Kit to get relevant data in correct format from SOM code that Stefano gave us - he will email Stefano if stuck
+  
+PHP work to be done :
+* TSV format code to be tested/updated to put into needed format
+* look into maybe doing some of the calculations on PHP side as well as database side to get data into correct formats
+
+We need to see if the topics for RCUK and EPSRC data are the same or if they are using different topic models - John is looking into this and will clarify with Stefano if necessary.
+
+John is going to work on his write up for Mallet/Topic Modelling
+
+### Meeting Paul Thompson
+Based on work completed so far does not look likely to be ready in time for a meeting with Paul Thompson on Tuesday - will see how much work gets done over the weekend and decide if it is feasible to fit in before next Meeting with Mike.
+
+### Next Meeting
+Tuesday 10.15 
